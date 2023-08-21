@@ -22,7 +22,7 @@ virtualenv env
 pip install -r requirements.txt
 ```
 ---
-- This notebook is written for simple sentiment or text classification using CNN architecture
+- This notebook is written for SimCLR architecture implementation for personal learning
 - Research paper can be found in the repository
 - Dataset used is not from the research paper
 ---
